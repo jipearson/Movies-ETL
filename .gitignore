@@ -1,6 +1,13 @@
 # CSV and Resources
 test.csv
-
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+ratings_small.csv
+wikipedia-movies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
